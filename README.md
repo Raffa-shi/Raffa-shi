@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there i'm Raffa Number 1 Sullyoon Fans👋
 
+![raffa syahidul](img/sullyoon.jpg)
 <!--
 **Raffa-shi/Raffa-shi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on none wkwk
+- 🌱 I’m currently learning Machine Learning
+- 💬 Ask me about K-pop
