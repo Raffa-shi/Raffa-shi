@@ -14,11 +14,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20Machine%20Learning-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Project-Network%20Prediction-yellow?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20Discussion-YES-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
----
 
 <p align="center">
   <img src="img/sullyoon.jpg" alt="Sullyoon" 
@@ -27,8 +24,6 @@
 ---
 
 ## 👤 About Me
-Hi, I’m **Raffa** I’m interested in **Machine Learning**, **Data Science**, and developing reliable **backend systems**. Currently, I’m working on a Machine Learning project. This project is still in the **beta** stage, so I continuously experiment, improve the pipeline, and refine the model.
-
 - 🔭 Current focus: **Machine Learning experiments for network prediction**
 - 🌱 Currently learning: **supervised learning, model evaluation, and end-to-end ML pipeline**
 - 🧠 Interested in: **data-driven prediction, analytics, and real-world implementation**
