@@ -22,10 +22,10 @@
 </p>
 
 ## 👤 About Me
-- 🔭 Current focus: **Machine Learning experiments for network prediction**
-- 🌱 Currently learning: **supervised learning, model evaluation, and end-to-end ML pipeline**
-- 🧠 Interested in: **data-driven prediction, analytics, and real-world implementation**
-- 💬 Ask me about: **Machine Learning, backend development, databases, or K-pop (NMIXX)**
+- 🎯 Current focus: **Machine Learning experiments for network prediction**
+- 📚 Currently learning: **supervised learning, model evaluation, and end-to-end ML pipeline**
+- 📊 Interested in: **data-driven prediction, analytics, and real-world implementation**
+- 🤝 Ask me about: **Machine Learning, backend development, databases, or K-pop (NMIXX)**
 
 ---
 
