@@ -21,8 +21,6 @@
   <img src="img/sullyoon.jpg" alt="Sullyoon" 
 </p>
 
----
-
 ## 👤 About Me
 - 🔭 Current focus: **Machine Learning experiments for network prediction**
 - 🌱 Currently learning: **supervised learning, model evaluation, and end-to-end ML pipeline**
@@ -90,6 +88,12 @@ Framework ini saya gunakan agar model ML bisa diakses melalui API (deployment).
 <p align="left">
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+## 🎧 Spotify Recently Played
+<p align="left">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=raffasyahidulhaqq&count=1&unique=true" alt="Spotify Recently Played" />
 </p>
 
 ---
