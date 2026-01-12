@@ -27,7 +27,7 @@
 ---
 
 ## 👤 About Me
-Hi, I’m **Raffa** I’m interested in **Machine Learning**, **Data Science**, and developing reliable **backend systems**.Currently, I’m working on a Machine Learning project. This project is still in the **beta** stage, so I continuously experiment, improve the pipeline, and refine the model.
+Hi, I’m **Raffa** I’m interested in **Machine Learning**, **Data Science**, and developing reliable **backend systems**. Currently, I’m working on a Machine Learning project. This project is still in the **beta** stage, so I continuously experiment, improve the pipeline, and refine the model.
 
 - 🔭 Current focus: **Machine Learning experiments for network prediction**
 - 🌱 Currently learning: **supervised learning, model evaluation, and end-to-end ML pipeline**
@@ -61,9 +61,11 @@ Berikut teknologi yang saya gunakan
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
-Framework ini saya gunakan agar model ML bisa diakses melalui API (deployment-ready).
+Framework ini saya gunakan agar model ML bisa diakses melalui API (deployment).
+
 
 ---
 
@@ -74,9 +76,20 @@ Framework ini saya gunakan agar model ML bisa diakses melalui API (deployment-re
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-Saya mempelajari **JavaScript** dan **PHP** untuk pengembangan sistem backend, sedangkan **Python** untuk data science dan Machine Learning.
 
 ---
+
+### 🎨 UI / Styling
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+---
+
+
 
 ### 🧑‍💻 Tools / Version Control
 <p align="left">
