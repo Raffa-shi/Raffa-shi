@@ -91,12 +91,8 @@ Framework ini saya gunakan agar model ML bisa diakses melalui API (deployment).
 </p>
 
 ---
-## 🎧 Spotify Recently Played
-<p align="left">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=raffasyahidulhaqq&count=1&unique=true" alt="Spotify Recently Played" />
-</p>
 
----
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=100&section=footer"/>
