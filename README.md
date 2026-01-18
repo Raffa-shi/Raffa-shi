@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Raffa-shi">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=700&color=00E5FF&center=true&vCenter=true&width=560&lines=Raffa+-+Data+Science+%26+Machine+Learning;Backend+%7C+Database+%7C+API+Development;Number+1+Sullyoon+Fans+%F0%9F%92%99" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=700&color=00E5FF&center=true&vCenter=true&width=560&lines=Data+Science+%26+Machine+Learning;Backend+%7C+Database+%7C+API+Development;Number+1+Sullyoon+Fans+%F0%9F%92%99" alt="Typing SVG" />
   </a>
 </p>
 
