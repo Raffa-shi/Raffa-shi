@@ -42,7 +42,7 @@ Berikut teknologi yang saya gunakan
 </p>
 
 ---
-### 🗄️ Backend / Database
+### 🗄️ Backend Database
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -50,7 +50,7 @@ Berikut teknologi yang saya gunakan
 
 ---
 
-### 🌐 API / Framework
+### 🌐 API Framework
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -72,7 +72,7 @@ Framework ini saya gunakan agar model ML bisa diakses melalui API (deployment).
 
 ---
 
-### 🎨 UI / Styling
+### 🎨 UI Styling
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -84,15 +84,11 @@ Framework ini saya gunakan agar model ML bisa diakses melalui API (deployment).
 
 
 
-### 🧑‍💻 Tools / Version Control
+### 🧑‍💻 Tools Version Control
 <p align="left">
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
----
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=100&section=footer"/>
