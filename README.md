@@ -1,96 +1,142 @@
 <!-- PROFILE README — Raffa-shi -->
 
+<!-- ========== HEADER ========== -->
 <p align="center">
-  <img src="img/nmixx.png" width="90" alt="NMIXX Logo"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:0A66C2&height=180&section=header&text=Raffa&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Data%20Scientist%20%7C%20Data%20Analyst%20%7C%20Data%20Engineer&descAlignY=60&descSize=16" alt="Header"/>
 </p>
-
-<h1 align="center">Hi, I'm Raffa </h1>
 
 <p align="center">
   <a href="https://github.com/Raffa-shi">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=700&color=00E5FF&center=true&vCenter=true&width=560&lines=Data+Science+%26+Machine+Learning;Backend+%7C+Database+%7C+API+Development;Number+1+Sullyoon+Fans+%F0%9F%92%99" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=700&lines=Backend+Web+Developer+(Laravel+%26+Python);Data+Scientist+%7C+Machine+Learning;Data+Analyst+%7C+SQL+%26+Data+Visualization;Data+Engineer+%7C+ETL+%26+Data+Pipelines" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20Machine%20Learning-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20Discussion-YES-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Open to opportunities"/>
+  <img src="https://img.shields.io/badge/Location-Indonesia-red?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Data-0A66C2?style=for-the-badge" alt="Focus"/>
 </p>
 
-<p align="center">
-  <img src="img/sullyoon.jpg" alt="Sullyoon" 
-</p>
+---
 
 ## 👤 About Me
-- 🎯 Current focus: **Machine Learning experiments for network prediction**
-- 📚 Currently learning: **supervised learning, model evaluation, and end-to-end ML pipeline**
-- 📊 Interested in: **data-driven prediction, analytics, and real-world implementation**
-- 🤝 Ask me about: **Machine Learning, backend development, databases, or K-pop (NMIXX)**
+
+I am an IT undergraduate who builds **reliable backend systems** and **data-driven solutions**. I enjoy turning raw data into predictions and insights, and wrapping them in clean APIs and web applications that people can actually use.
+
+- 🎯 **Career focus:** Backend Web Development, Data Science, Data Analysis, and Data Engineering
+- 🔬 **Currently working on:** machine learning experiments for network disruption prediction (model comparison and evaluation)
+- 📚 **Currently learning:** end-to-end ML pipelines, data warehousing, and workflow orchestration
+- 🤝 **Open to:** internships, junior roles, freelance projects, and collaboration
 
 ---
 
-## Skills and Tools
-Berikut teknologi yang saya gunakan 
+## 🧭 What I Do
+
+| Area | What I Work On |
+|------|----------------|
+| 🌐 **Backend Web Development** | REST API design, authentication, CRUD systems, database design with Laravel, FastAPI, Django, and Flask |
+| 🧠 **Data Science** | Supervised learning, feature engineering, model training and evaluation, ML model deployment via API |
+| 📊 **Data Analysis** | Data cleaning, exploratory analysis, SQL querying, and visual storytelling |
+| 🏗️ **Data Engineering** | ETL processes, relational database modeling, and building data pipelines |
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Backend & Web Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge" alt="SQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
 ### 🧠 Data Science & Machine Learning
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
 </p>
 
----
-### 🗄️ Backend Database
+### 📊 Data Analysis & Visualization
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 </p>
 
----
-
-### 🌐 API Framework
+### 🎨 Frontend & UI
 <p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
-Framework ini saya gunakan agar model ML bisa diakses melalui API (deployment).
-
-
----
-
-### 💻 Programming Language
+### 🧰 Tools & DevOps
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-
----
-
-### 🎨 UI Styling
+### 🚀 Currently Exploring
 <p align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
 </p>
 
 ---
 
+## 📂 Featured Projects
 
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[Network Disruption Prediction](https://github.com/Raffa-shi/REPO-NAME)** | Comparative study of Random Forest and Naive Bayes for predicting network disruptions, covering preprocessing, training, and performance evaluation | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square) |
+| **[PROJECT NAME 2](https://github.com/Raffa-shi/REPO-NAME)** | One-line description: what problem it solves and the result | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square) |
+| **[PROJECT NAME 3](https://github.com/Raffa-shi/REPO-NAME)** | One-line description: what problem it solves and the result | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square) |
 
-### 🧑‍💻 Tools Version Control
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Raffa-shi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raffa-shi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+## 📫 Let's Connect
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:YOUR-EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Raffa-shi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:0A66C2&height=100&section=footer" alt="Footer"/>
 </p>
-
