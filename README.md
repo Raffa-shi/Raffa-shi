@@ -19,31 +19,31 @@
 
 ---
 
-## 👤 About Me
+## About Me
 
-I am an IT undergraduate who builds **reliable backend systems** and **data-driven solutions**. I enjoy turning raw data into predictions and insights, and wrapping them in clean APIs and web applications that people can actually use.
+I am a continuous learner who enjoys adapting to new technologies, improving analytical thinking, and building practical solutions through technology. Currently, I am seeking opportunities to grow through internships, collaborations, and professional networking in the fields of Data Science, and Technology Development. builds **reliable backend systems** and **data-driven solutions**. I enjoy turning raw data into predictions and insights, and wrapping them in clean APIs and web applications that people can actually use.
 
-- 🎯 **Career focus:** Backend Web Development, Data Science, Data Analysis, and Data Engineering
-- 🔬 **Currently working on:** machine learning experiments for network disruption prediction (model comparison and evaluation)
-- 📚 **Currently learning:** end-to-end ML pipelines, data warehousing, and workflow orchestration
-- 🤝 **Open to:** internships, junior roles, freelance projects, and collaboration
+- **Career focus:** Backend Web Development, Data Science, Data Analysis, and Data Engineering
+- **Currently working on:** machine learning experiments for network disruption prediction (model comparison and evaluation)
+- **Currently learning:** end-to-end ML pipelines, data warehousing, and workflow orchestration
+- **Open to:** internships, junior roles, freelance projects, and collaboration
 
 ---
 
-## 🧭 What I Do
+## What I Do
 
 | Area | What I Work On |
 |------|----------------|
-| 🌐 **Backend Web Development** | REST API design, authentication, CRUD systems, database design with Laravel, FastAPI, Django, and Flask |
-| 🧠 **Data Science** | Supervised learning, feature engineering, model training and evaluation, ML model deployment via API |
-| 📊 **Data Analysis** | Data cleaning, exploratory analysis, SQL querying, and visual storytelling |
-| 🏗️ **Data Engineering** | ETL processes, relational database modeling, and building data pipelines |
+| **Backend Web Development** | REST API design, authentication, CRUD systems, database design with Laravel, FastAPI, Django, and Flask |
+| **Data Science** | Supervised learning, feature engineering, model training and evaluation, ML model deployment via API |
+| **Data Analysis** | Data cleaning, exploratory analysis, SQL querying, and visual storytelling |
+| **Data Engineering** | ETL processes, relational database modeling, and building data pipelines |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🌐 Backend & Web Development
+### Backend & Web Development
 <p align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
@@ -54,14 +54,14 @@ I am an IT undergraduate who builds **reliable backend systems** and **data-driv
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-### 🗄️ Databases
+### Databases
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge" alt="SQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
-### 🧠 Data Science & Machine Learning
+### Data Science & Machine Learning
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
@@ -71,7 +71,7 @@ I am an IT undergraduate who builds **reliable backend systems** and **data-driv
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
 </p>
 
-### 📊 Data Analysis & Visualization
+### Data Analysis & Visualization
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge" alt="SQL"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -79,7 +79,7 @@ I am an IT undergraduate who builds **reliable backend systems** and **data-driv
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 </p>
 
-### 🎨 Frontend & UI
+### Frontend & UI
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -88,7 +88,7 @@ I am an IT undergraduate who builds **reliable backend systems** and **data-driv
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
-### 🧰 Tools & DevOps
+### Tools & DevOps
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -96,7 +96,7 @@ I am an IT undergraduate who builds **reliable backend systems** and **data-driv
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-### 🚀 Currently Exploring
+### Currently Exploring
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
@@ -104,7 +104,7 @@ I am an IT undergraduate who builds **reliable backend systems** and **data-driv
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -114,7 +114,7 @@ I am an IT undergraduate who builds **reliable backend systems** and **data-driv
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Raffa-shi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
