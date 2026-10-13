@@ -107,7 +107,7 @@ I am a continuous learner who enjoys adapting to new technologies, improving ana
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **[Network Disruption Prediction](https://github.com/Raffa-shi/Klasifikasi-Gangguan-Jaringan-Kantor-Kominfo-Berdasarkan-Parameter.git)** | Comparative study of Random Forest and Naive Bayes for predicting network disruptions, covering preprocessing, training, and performance evaluation | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square) |
-| **[CRUD Management System](https://github.com/Raffa-shi/REPO-NAME)** | CRUD System | ![Laravel](https://github.com/Raffa-shi/University-Library-Management.git) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square) |
+| **[CRUD Management System](https://github.com/Raffa-shi/University-Library-Management.git)** | CRUD System | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square) |
 
 ---
 
