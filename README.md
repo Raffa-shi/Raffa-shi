@@ -92,8 +92,6 @@ I am a continuous learner who enjoys adapting to new technologies, improving ana
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
 ### Currently Exploring
@@ -108,9 +106,8 @@ I am a continuous learner who enjoys adapting to new technologies, improving ana
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Network Disruption Prediction](https://github.com/Raffa-shi/REPO-NAME)** | Comparative study of Random Forest and Naive Bayes for predicting network disruptions, covering preprocessing, training, and performance evaluation | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square) |
-| **[PROJECT NAME 2](https://github.com/Raffa-shi/REPO-NAME)** | One-line description: what problem it solves and the result | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square) |
-| **[PROJECT NAME 3](https://github.com/Raffa-shi/REPO-NAME)** | One-line description: what problem it solves and the result | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square) |
+| **[Network Disruption Prediction](https://github.com/Raffa-shi/Klasifikasi-Gangguan-Jaringan-Kantor-Kominfo-Berdasarkan-Parameter.git)** | Comparative study of Random Forest and Naive Bayes for predicting network disruptions, covering preprocessing, training, and performance evaluation | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square) |
+| **[CRUD Management System](https://github.com/Raffa-shi/REPO-NAME)** | CRUD System | ![Laravel](https://github.com/Raffa-shi/University-Library-Management.git) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square) |
 
 ---
 
